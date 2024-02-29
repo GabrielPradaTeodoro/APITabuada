@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITabuada", "APITabuada\APITabuada.csproj", "{9915049C-18D2-43B9-9B10-CE0A070FCFA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{0A1CFAF7-CCFF-47F9-B77E-90C215F4E28A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9915049C-18D2-43B9-9B10-CE0A070FCFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9915049C-18D2-43B9-9B10-CE0A070FCFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9915049C-18D2-43B9-9B10-CE0A070FCFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9915049C-18D2-43B9-9B10-CE0A070FCFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1CFAF7-CCFF-47F9-B77E-90C215F4E28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1CFAF7-CCFF-47F9-B77E-90C215F4E28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1CFAF7-CCFF-47F9-B77E-90C215F4E28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1CFAF7-CCFF-47F9-B77E-90C215F4E28A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD5D5D80-B1DC-4186-87CF-83874F06566E}
+	EndGlobalSection
+EndGlobal
